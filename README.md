@@ -26,6 +26,14 @@ The project is organized into several key directories and files:
 
 Main Window and Navigation: The main window is the central hub for all graph-building activities. It consists of a toolbar, a canvas for graph visualization, and various side panels for interacting with graph elements.
 
+![Screenshot (596)](https://github.com/user-attachments/assets/ff40f0d8-223a-428c-94b4-d7e71d723ff8)
+
+Main Window
+
+![Screenshot (595)](https://github.com/user-attachments/assets/54a05444-dc63-4e1e-aec2-069e8b5359e2)
+
+Main Window 2 
+
 - Custom Widgets and Controls:
 - CustomScrollContainer: This widget provides enhanced scrolling capabilities for large graphs.
 - CustomWidgets: These are tailored UI elements designed to improve user interaction with the graph.
