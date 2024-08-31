@@ -50,4 +50,4 @@ Graph_implement.cpp/h: Handles the core logic of graph creation, manipulation, a
 Graph_View.cpp/h: Responsible for rendering the graph on the canvas.
 
 ## For Testing 
-Download the graphBuilderV1.3.exe file and run it
+Download the dsaproject.exe file and run it
