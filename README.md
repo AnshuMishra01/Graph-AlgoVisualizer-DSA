@@ -1,5 +1,8 @@
 # DSA Project
 
+## For Testing 
+Download the dsaproject.exe file and run it ( for recruiters or anyone what to contribute)
+
 1. Introduction
 - Project Overview: This is a desktop application developed in C++ using QT for GUI and SFML (if applicable) for rendering. The application allows users to create and manipulate graph structures interactively, providing a platform for visualizing graph algorithms and structures.
 
@@ -48,6 +51,3 @@ MainWindow.cpp/h: Manages the main application window, including the layout and 
 Graph_implement.cpp/h: Handles the core logic of graph creation, manipulation, and algorithm execution.
 
 Graph_View.cpp/h: Responsible for rendering the graph on the canvas.
-
-## For Testing 
-Download the dsaproject.exe file and run it
